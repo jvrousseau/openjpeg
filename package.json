@@ -12,7 +12,7 @@
     "type": "git"
   },
   "main": "openjpeg",
-  "devDependencies": {
+  "dependencies": {
     "process": "~0.6.0"
   }
 }
