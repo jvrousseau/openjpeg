@@ -1,8 +1,7 @@
 var H = void 0,
     I = !0,
     W = null,
-    Y = !1,
-    process = require('process');
+    Y = !1;
     
 var openjpeg = function (ei, xb) {
     function Na() {}
