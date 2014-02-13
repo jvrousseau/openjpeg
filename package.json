@@ -1,0 +1,15 @@
+{
+  "name": "openjpeg",
+  "version": "0.1.0",
+  "description": "A npm package Port of OpenJPEG, an open-source JPEG2000 codec, to JavaScript using Emscripten.",
+  "author": {
+    "name": "Jordan Rousseau",
+    "email": "jv.rousseau@outlook.com"
+  },
+  "homepage": "https://github.com/jvrousseau/openjpeg",
+  "repository": {
+    "url": "git@github.com:jvrousseau/openjpeg.git",
+    "type": "git"
+  },
+  "main": "openjpeg"
+}
