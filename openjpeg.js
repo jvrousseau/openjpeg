@@ -8598,10 +8598,10 @@ var openjpeg = function (ei, xb) {
         wi = !Jh && !Ih && !Kh;
     if (Ih) {
         Na = function (a) {
-            process.stdout.write(a + "\n")
+            //process.stdout.write(a + "\n")
         };
         printErr = function (a) {
-            process.stderr.write(a + "\n")
+            //process.stderr.write(a + "\n")
         };
         var Lh = require("fs");
         read = function (a) {
