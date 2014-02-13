@@ -11,5 +11,8 @@
     "url": "git@github.com:jvrousseau/openjpeg.git",
     "type": "git"
   },
-  "main": "openjpeg"
+  "main": "openjpeg",
+  "devDependencies": {
+    "process": "~0.6.0"
+  }
 }
